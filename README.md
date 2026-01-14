@@ -36,4 +36,14 @@ This loader features a rotating central box with four animated child squares, vi
 ---
 
 ## 📂 Project Structure
+📁 animated-css-loader
+├── index.html
+└── README.md
 
+---
+
+## ▶️ How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/animated-css-loader.git
