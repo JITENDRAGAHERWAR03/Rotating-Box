@@ -47,3 +47,35 @@ This loader features a rotating central box with four animated child squares, vi
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/animated-css-loader.git
+Open index.html in your browser.
+
+Copy the loader HTML & CSS into your own project if needed.
+
+🎛️ Customization
+
+Change size:
+Modify height and width in .loader-box
+
+Change speed:
+Adjust animation duration:
+
+animation: rotating 2s linear infinite;
+
+
+Change colors:
+Update background colors inside .loader-box and span:nth-child()
+
+📸 Screenshot
+
+Add a screenshot or GIF for better visibility on GitHub.
+
+📄 License
+
+This project is open-source and available under the MIT License.
+
+🙌 Author
+
+Jitendra Gaherwar
+Beginner Frontend Developer | HTML • CSS • JavaScript
+
+⭐ If you like this project, don’t forget to star the repository!
