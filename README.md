@@ -8,8 +8,9 @@ This loader features a rotating central box with four animated child squares, vi
 ## ✨ Preview
 
 > A rotating square loader with colorful, animated elements on a dark background.
+<img width="727" height="697" alt="image" src="https://github.com/user-attachments/assets/6157c524-c405-4e41-b992-edd6cba493fc" />
 
-(📸 Add a screenshot or GIF here)
+
 
 ---
 
@@ -64,10 +65,6 @@ animation: rotating 2s linear infinite;
 
 Change colors:
 Update background colors inside .loader-box and span:nth-child()
-
-📸 Screenshot
-
-Add a screenshot or GIF for better visibility on GitHub.
 
 📄 License
 
